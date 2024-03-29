@@ -5,6 +5,8 @@ import Header from './header/header.jsx';
 import './header/header.css';
 import About from './about/about.jsx';
 import './about/about.css';
+import Offers from './offers/offers.jsx';
+import './offers/offers.css';
 
 
 
@@ -14,6 +16,7 @@ root.render(
     <div className="all">
       <Header/>
       <About/>
+      <Offers/>
     </div>
   </React.StrictMode>
   

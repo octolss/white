@@ -6,12 +6,11 @@
     width : 40%;
     margin-left: 10%;
     height: 500px;
-    padding-bottom: 100%;
+    padding-bottom: 20%;
 }
 
 .main-photo {
     flex: 2; 
-
     margin-left: 200%;
 }
 
