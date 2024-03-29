@@ -1,0 +1,86 @@
+.aboutText{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    width : 40%;
+    margin-left: 10%;
+    height: 500px;
+    padding-bottom: 100%;
+}
+
+.main-photo {
+    flex: 2; 
+
+    margin-left: 200%;
+}
+
+.container-beauty{
+    flex: 1;
+    width : 100%;
+    display: flex;
+    height: 550px;
+    position: absolute;
+    justify-content: center;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 255, 255);
+    background-color: rgb(28, 28, 41);
+    box-shadow: 0 2px 8px;
+    color: rgb(0, 255, 255);
+    
+}
+
+
+.aboutUs {
+    flex: 1;
+    display: flex;
+    width : 100%;
+    height: 553px;
+    position: absolute;
+    justify-content: center;
+    border-radius: 10px;
+    font-size: 30px;
+    box-shadow: 0 2px 8px;
+    color: rgb(207, 209, 209);
+    
+}
+
+
+.container2{
+    flex: 1;
+    display: flex;
+    width : 100%;
+    height: 550px;
+    position: absolute;
+    border-radius: 10px;
+    justify-content: center;
+    color: rgb(207, 209, 209);
+}
+
+
+.container2 h3{
+    font-weight: 800;
+    font-size: 20px;
+    padding-top: 30%;
+    padding-left: 0%;
+    text-align: center;
+}
+
+
+
+/*.main-photo{
+    position: relative;
+    flex: 2;
+    justify-content: center;
+    width : 60%;
+    margin-left: 40%;
+    height: 0px;
+    padding-bottom: 100%;
+}*/
+
+.main-photo {
+    width: 50%; 
+    height: 100%; 
+    background-size: cover;
+    background-position: center;
+}
