@@ -30,6 +30,9 @@
     width: 250px;
     border-radius: 20px;
 }
+.rectangle p{
+    color: white;
+}
 
 .firstRow {
     justify-content: center;
@@ -45,15 +48,20 @@
 
 .aboutTeam{
     position: relative;
-    margin-top: 100px;
+    margin-top:0px;
     margin-right: 70px;
-    padding-top: 12.5%;
+    padding-top:8%;
     width: 30%;
     flex-shrink: 0;
     margin-left: 0px;
     color: azure;
 }
-
+.aboutTeam p{
+    font-size: 38px;
+}
+.aboutTeam h1{
+    font-size: 50px;
+}
 
 .rectangle img{
     width: 100%;
@@ -70,5 +78,3 @@
     width: 225px;
     font-size: 26px;
 }
-
-
