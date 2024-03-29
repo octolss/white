@@ -7,6 +7,8 @@ import About from './about/about.jsx';
 import './about/about.css';
 import Offers from './offers/offers.jsx';
 import './offers/offers.css';
+import Team from './team/team.jsx';
+import './team/team.css';
 
 
 
@@ -17,6 +19,7 @@ root.render(
       <Header/>
       <About/>
       <Offers/>
+      <Team/>
     </div>
   </React.StrictMode>
   

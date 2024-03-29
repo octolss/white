@@ -5,7 +5,7 @@
     height: 450px;
     text-align: center;
     padding-top: 40px;
-    padding-bottom: 100%;
+    /* padding-bottom: 10%; */
 }
 
 
@@ -22,8 +22,10 @@
 }
 
 .oneOffer h4{
+    padding-top: 5%;
     color: azure;
-    font-size: 30px;
+    font-size: 26px;
+    font-family: "DejaVu Sans Mono", monospace
 }
 
 
@@ -41,5 +43,5 @@
 
 .oneOffer:hover {
     transform: translateY(-15px); 
-    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
+    /* box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3); */
 }

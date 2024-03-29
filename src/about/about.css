@@ -67,15 +67,7 @@
 
 
 
-/*.main-photo{
-    position: relative;
-    flex: 2;
-    justify-content: center;
-    width : 60%;
-    margin-left: 40%;
-    height: 0px;
-    padding-bottom: 100%;
-}*/
+
 
 .main-photo {
     width: 50%; 
@@ -83,3 +75,5 @@
     background-size: cover;
     background-position: center;
 }
+
+
