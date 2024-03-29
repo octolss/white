@@ -8,7 +8,7 @@ function Team() {
             <div className="firstRow">
                 <div className="rectangle">
                     <img src = {vovka}/>
-                    <p>Vovka Jeremmev</p>
+                    <p>Vovka Jeremejev</p>
                     <p>CO-CEO/Full-Stack</p>
                 </div>
                 <div className="rectangle">
