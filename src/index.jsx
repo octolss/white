@@ -9,6 +9,8 @@ import Offers from './offers/offers.jsx';
 import './offers/offers.css';
 import Team from './team/team.jsx';
 import './team/team.css';
+import Footer from './footer/footer.jsx';
+import './footer/footer.css';
 
 
 
@@ -20,6 +22,7 @@ root.render(
       <About/>
       <Offers/>
       <Team/>
+      <Footer/>
     </div>
   </React.StrictMode>
   

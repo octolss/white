@@ -7,26 +7,34 @@ function Team() {
         <div className="gridContainer">
             <div className="firstRow">
                 <div className="rectangle">
-                    <img src = {vovka}/>
-                    <p>Vovka Jeremejev</p>
-                    <p>CO-CEO/Full-Stack</p>
+                    <a href="">
+                        <img src = {vovka}/>
+                        <p>Vovka Jeremejev</p>
+                        <p>CO-CEO/Full-Stack</p>
+                    </a>
                 </div>
                 <div className="rectangle">
-                <img src = {vovka}/>
-                <p>Goblin Goblin</p>
-                    <p>Goblin Goblin</p>
+                    <a href="">
+                        <img src = {vovka}/>
+                        <p>Goblin Goblin</p>
+                        <p>Goblin Goblin</p>
+                    </a>
                 </div>
             </div>
             <div className="secondRow">
                 <div className="rectangle">
-                <img src = {vovka}/>
-                    <p>Artemka Belij</p>
-                    <p>CO-CEO/Full-Stack</p>
+                    <a href="">
+                        <img src = {vovka}/>
+                        <p>Artemka Belij</p>
+                        <p>CO-CEO/Full-Stack</p>
+                    </a>
                 </div>
                 <div className="rectangle">
-                <img src = {vovka}/>
-                <p>Incognito</p>
-                    <p>Web-Design/UI-UX</p>
+                    <a href="">
+                        <img src = {vovka}/>
+                        <p>Incognito</p>
+                        <p>Web-Design/UI-UX</p>
+                    </a>
                 </div>
             </div>
                 
